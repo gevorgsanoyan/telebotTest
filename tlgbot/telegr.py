@@ -20,7 +20,7 @@ name="SEFInternational"
 username="SEFInternational_bot"
 
 
-TOKEN = "377314360:AAElJx_X1hNrSlIufiYtFG2ky-u8lQeUSiw"
+TOKEN = "xxxxxxxxxxxxxx"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
